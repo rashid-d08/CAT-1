@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-
 	realty "rashid/reality"
 )
 
 func main() {
+
 	fmt.Println("REAL ESTATE PROPERTY LISTING SYSTEM")
 
 	for {
@@ -48,6 +48,7 @@ func main() {
 			fmt.Scan(&sold)
 
 			isSold := false
+
 			if sold == "y" || sold == "Y" {
 				isSold = true
 			}

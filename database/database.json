@@ -1,0 +1,23 @@
+{
+    "101": {
+        "listing_id": "101",
+        "address": "19,king_street,perundurai",
+        "price": 300000,
+        "bedrooms": 3,
+        "is_sold": true
+    },
+    "201": {
+        "listing_id": "201",
+        "address": "fire_street,perundurai",
+        "price": 300000,
+        "bedrooms": 2,
+        "is_sold": true
+    },
+    "301": {
+        "listing_id": "301",
+        "address": "ennoret,perunduraiurai",
+        "price": 290809,
+        "bedrooms": 2,
+        "is_sold": false
+    }
+}
